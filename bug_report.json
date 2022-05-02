@@ -1,7 +1,8 @@
 {
   "Bug report ID": 1,
   "Title": "An out of stock product is succesfully added to a basket",
-  "Steps To Reproduce": "1. Go to Granada Hand-Painted Dining Collection product page https://qatest-dev.indvp.com/granada-hand-painted-dining-collection. 2. Increase order amount of each item to 1.
+  "Steps To Reproduce": "1. Go to Granada Hand-Painted Dining Collection product page https://qatest-dev.indvp.com/granada-hand-painted-dining-collection. 
+                         2. Increase order amount of each item to 1.
                          3. Click ADD TO BASKET button",
   "Expected Result": "Sorry! The product is out of stock' notification appears and product is not added to a cart",
   "Actual Result":  " 'Product added to cart' notification appears and product is added to a cart"
